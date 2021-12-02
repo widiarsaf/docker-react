@@ -1,7 +1,7 @@
 version: "3"
 services:
   web:
-    image: widiarsaf/hello-react:latest
+    image: widiareta/hello-react:latest
     container_name: web
     restart: unless-stopped
     ports:
